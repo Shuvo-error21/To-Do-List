@@ -1,0 +1,6 @@
+{
+  "name": "GoalAI Tracker",
+  "description": "Modern AI-Powered Goal Tracker, Dynamic Study/Work Scheduler, and Intelligent To-Do App with bilingual English and Bengali localization, smart schedule adjustments, and Pomodoro timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
